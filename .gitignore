@@ -1,6 +1,15 @@
+# Dependencies
 node_modules/
-dist/
-.astro/
-*.log
-.env
+
+# Build output
+_book/
+.gitbook/
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
