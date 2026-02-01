@@ -1,0 +1,22 @@
+{
+  "name": "@clawfi/docs",
+  "version": "1.0.0",
+  "description": "Documentation site for ClawFi crypto intelligence platform",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "keywords": ["docs", "documentation", "clawfi", "crypto"],
+  "author": "ClawFi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClawFiAI/clawfi-docs.git"
+  },
+  "dependencies": {
+    "astro": "^4.0.7",
+    "@astrojs/starlight": "^0.15.2"
+  }
+}

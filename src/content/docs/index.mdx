@@ -1,0 +1,36 @@
+---
+title: ClawFi Documentation
+description: Crypto intelligence platform documentation
+template: splash
+hero:
+  tagline: Real-time token analysis, risk signals, and market data
+  image:
+    file: ../../assets/logo.png
+  actions:
+    - text: Get Started
+      link: /guides/introduction/
+      icon: right-arrow
+      variant: primary
+    - text: View on GitHub
+      link: https://github.com/ClawFiAI
+      icon: external
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Features
+
+<CardGrid stagger>
+  <Card title="Browser Extension" icon="puzzle">
+    In-page overlays on DeFi sites with real-time signals
+  </Card>
+  <Card title="API & SDK" icon="rocket">
+    Programmatic access to ClawFi intelligence
+  </Card>
+  <Card title="Risk Detection" icon="warning">
+    Honeypot, rug pull, and whale movement alerts
+  </Card>
+  <Card title="Multi-chain" icon="globe">
+    Support for Ethereum, BSC, Base, Solana, and more
+  </Card>
+</CardGrid>
