@@ -49,3 +49,9 @@
 * [Building Trading Bots](guides/trading-bots.md)
 * [Webhook Integration](guides/webhooks.md)
 * [Custom Signals](guides/custom-signals.md)
+
+## Legal
+
+* [Privacy Policy](legal/privacy-policy.md)
+* [Terms of Service](legal/terms-of-service.md)
+* [Disclaimer](legal/disclaimer.md)
